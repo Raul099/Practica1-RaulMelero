@@ -1,5 +1,11 @@
 body{
 
+color: white;
+
+}
+
+body{
+
 background-image: url("../imagenes/imagen.jpg");
 background-repeat: no-repeat, repeat;
 background-size: cover;
@@ -7,10 +13,6 @@ background-size: cover;
 
 
 .borde{
-border: 10px solid;
-}
-
-body{
-
-color: #000000
+border: 5px solid;
+color: blue;
 }
